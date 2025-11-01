@@ -1,0 +1,14 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Magic 8 Ball",
+    "subtitle": "Mystical oracle for your questions",
+    "description": "Ask the magic 8 ball anything and get mystical answers. Built for Farcaster on Base.",
+    "homeUrl": "https://madnessmagic8ball.vercel.app",
+    "iconUrl": "https://madnessmagic8ball.vercel.app/placeholder-logo.png",
+    "imageUrl": "https://madnessmagic8ball.vercel.app/placeholder.jpg",
+    "splashImageUrl": "https://madnessmagic8ball.vercel.app/placeholder.jpg",
+    "splashBackgroundColor": "#1a0033"
+  },
+  "noindex": true
+}
